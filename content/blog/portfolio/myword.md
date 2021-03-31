@@ -23,6 +23,8 @@ draft: false
 
 ##### [GitHub 링크](https://github.com/Leeyonghyeong/java-react)
 
+##### [포트폴리오 페이지 링크](https://leeyonghyeong.github.io/portFolio/)
+
 ##### 단어추가 화면
 
 ![단어추가](../../assets/myword/add.jpg)
