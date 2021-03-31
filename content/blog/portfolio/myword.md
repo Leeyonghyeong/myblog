@@ -21,6 +21,8 @@ draft: false
 
 ##### [APK파일 링크](https://drive.google.com/file/d/1qsV38jyEsFUx2HPuYHC9b5l-3ePvx_gB/view?usp=sharing)
 
+##### [GitHub 링크](https://github.com/Leeyonghyeong/java-react)
+
 ##### 단어추가 화면
 
 ![단어추가](../../assets/myword/add.jpg)
